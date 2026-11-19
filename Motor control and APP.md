@@ -1,7 +1,7 @@
 # Controlling a Tonal Without a Subscription — a Sideloaded Android Control App
 
 
-*** Only do this after completing tonal10devie-unlock-guide.md
+*** Only do this after completing tonal10devie-unlock-guide.md ***
 
 An unofficial, subscription-free control app for a **personally-owned** Tonal, built as a
 sideloaded Android app that talks directly to the machine's motor-control board. This document
