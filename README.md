@@ -1,6 +1,6 @@
-# Tonal-Freedom-2
+# Tonal-Freedom-2 Do this First
 
-****All I used was a Raspberry Pi 4B, 32gb Flash drive, USB A to Micro USB data cable.  Claude AI
+****All I used was a Raspberry Pi 4B, 32gb Flash drive, USB A to Micro USB data cable.  Claude AI ****
 
 I directed AI to site like this.  I asked Claude to prove step by step instructions.  It taught me to SSH and provided all code to copy and paste.  It set up the Pi for me and did all coding, I just cop and pasted the command lines*****
 
