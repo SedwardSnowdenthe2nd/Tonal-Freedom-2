@@ -1,8 +1,13 @@
 # Tonal-Freedom-2
 
-All I used was a Raspberry Pi 4B, 32gb Flash drive, USB A to Micro USB data cable.  Claude AI
+****All I used was a Raspberry Pi 4B, 32gb Flash drive, USB A to Micro USB data cable.  Claude AI
 
-I directed AI to site like this.  I asked Claude to prove step by step instructions.  It taught me to SSH and provided all code to copy and paste.  It set up the Pi for me and did all coding, I just cop and pasted
+I directed AI to site like this.  I asked Claude to prove step by step instructions.  It taught me to SSH and provided all code to copy and paste.  It set up the Pi for me and did all coding, I just cop and pasted the command lines*****
+
+Occasionally I took a few pictures and copied code back for AI to read
+
+
+
 
 Unlock your Tonal with the help of AI or yourself
 Unlocking a Tonal 1 You Own — Device-Owner / Kiosk Removal
