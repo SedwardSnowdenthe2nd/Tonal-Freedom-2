@@ -11,6 +11,9 @@ I owe gratitude to this guy https://github.com/sedwardsnowden-hub/tonal-freedom,
 please check these out as well
 
 
+
+
+
 Unlock your Tonal with the help of AI or yourself
 Unlocking a Tonal 1 You Own — Device-Owner / Kiosk Removal
 
