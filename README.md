@@ -6,7 +6,9 @@ I directed AI to site like this.  I asked Claude to prove step by step instructi
 
 Occasionally I took a few pictures and copied code back for AI to read
 
+I owe gratitude to this guy https://github.com/sedwardsnowden-hub/tonal-freedom, and https://github.com/d4l3k/swolectl   
 
+please check these out as well
 
 
 Unlock your Tonal with the help of AI or yourself
